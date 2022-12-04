@@ -1,0 +1,31 @@
+
+body, html {
+    height: 100%;
+    text-align: center;
+    background-color: rgba(238, 208, 143, 0.904);
+  }
+  
+.bg{
+    background-image: url(recipes/images/dessert.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title_design{
+    color: rgb(95, 67, 15);
+    font-family: 'Bradley Hand', monospace, 'Times New Roman';
+}
+
+button {
+    background-color: rgba(238, 208, 143, 0.904);
+    border-width: 5px;
+    color: rgb(95, 67, 15);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 350px;
+  }
